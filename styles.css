@@ -14,7 +14,6 @@ body {
 
 .navigation {
     margin-top: 5rem;
-
     display: flex;
     align-content: space-between;
     background-color: #0aa1dd;
@@ -27,6 +26,5 @@ body {
     text-decoration: none;
     border-radius: 3rem;
     padding: 1rem 2rem;
-    transition: all 0.25s ease-in;
     font-size: 1.5rem;
 }
