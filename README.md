@@ -8,7 +8,7 @@ Todos los errores se arreglan añadiendo una regla CSS o modificando alguna prop
 2. Los items de menú no aparecen bien estilizados, aunque parece existir una regla CSS
 3. Los items del contenedor flex no están distribuidos de forma similar al mostrado en el vídeo
 
-4. **Importante**: Explica con tus palabras cuales son los errores o reglas que faltan en el fichero **errores.txt**
+**Importante**: Explica con tus palabras cuales son los errores o reglas que faltan en el fichero **errores.txt**
 
 ## BONUS
 
