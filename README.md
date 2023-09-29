@@ -1,6 +1,6 @@
 # Encuentra los 3 errores
 
-En este HTML/CSS hay 3 errores que impiden que la app Web se vea como espereamos [video](https://oscarm.tinytake.com/msc/ODc0NjI2NF8yMjE1MjE0NQ)  
+En este HTML/CSS hay 3 errores que impiden que la app Web se vea como espereamos [video](https://oscarm.tinytake.com/msc/ODc0NjI4N18yMjE1MjE2OA)  
 
 Todos los errores se arreglan añadiendo una regla CSS o modificando alguna propiedad CSS existente.
 
