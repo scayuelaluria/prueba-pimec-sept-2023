@@ -7,6 +7,8 @@ Todos los errores se arreglan añadiendo una regla CSS o modificando alguna prop
 2. Los items de menú no aparecen bien estilizados, aunque parece existir una regla CSS
 3. Los items del contenedor flex no están distribuidos de forma similar al mostrado en el vídeo
 
+4. **Importante**: Explica con tus palabras cuales son los errores o reglas que faltan en el fichero **errores.txt**
+
 ## BONUS
 
 Fíjate que al pasar el ratóm por encima del item de menú, este tarda un tiempo en cambiar de color, no es inmediato. Investiga como conseguir esto. [pista](https://www.w3schools.com/css/css3_transitions.asp)
