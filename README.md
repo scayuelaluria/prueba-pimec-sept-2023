@@ -1,6 +1,6 @@
 # Encuentra los 3 errores
 
-En este HTML/CSS hay 3 errores que impiden que la app Web se vea como espereamos - [video](https://oscarm.tinytake.com/msc/ODc0NjI2NF8yMjE1MjE0NQ)
+En este HTML/CSS hay 3 errores que impiden que la app Web se vea como espereamos - [video](https://oscarm.tinytake.com/msc/ODc0NjI2NF8yMjE1MjE0NQ)  
 Todos los errores se arreglan añadiendo una regla CSS o modificando alguna propiedad CSS existente.
 
 1. Al pasar el ratón por encima de cada item de menú, este no cambia a un fondo blanco. [pista](https://www.w3schools.com/cssref/sel_hover.php)
