@@ -1,5 +1,5 @@
-Error 1:
+Error 1: Hay que añadir un hover con el fondo blanco y la letra azul para cada item
 
-Error 2:
+Error 2: en el navigation__link hay que poner un . delante
 
-Error 3: 
+Error 3: se ha añadido justify-content: space-between; 
